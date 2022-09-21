@@ -1,6 +1,5 @@
 ## Hi, I'm Troy  <img alt="waving" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"/>
 
-- 🔭 I’m currently working on [Midorin: A plant care and identification app](https://www.google.com "Midorin")
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on educational technology projects
 
